@@ -1,20 +1,18 @@
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gamegemDp
-Depiction: hack fai fai
-Author: Aidoo.TK <aidoo.tk@gmail.com>
-Maintainer: NVP.vanphuoc <vanphuoc222su@gmail.com>
-Name: GameGemCam
-Depends: mobilesubstrate, applist, preferenceloader
 Package: com.NVP.memsearch
-Section: Utilities
-Installed-Size: 10613
-Version: 1.5
 Architecture: iphoneos-arm
-dev: phước
-Description: Tool hack fai fai :)
-Icon: file:///Applications/GameGemiOS.app/AppIcon29x29@2x.png
+Version: 1.5
+Section: Utilities
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 10613
+Depends: firmware (>= 8.0)
 Filename: ./debs/GameGemCam.deb
-Size: 4792
-MD5Sum: 01f6684806601c8a367d202fad3446a0
-SHA1 : 99802818f2c6749f13270dc1fc25fb4e6ca8c0ef
-SHA256: 04943e9b2a1e9a262698180e8c5e41ea4b73a122add3d976b873167bbab936e8
-SHA512: eae96004e148410783703b7f47ce007ff67aea42db64bbb298f028aacf4f217eca1a3b5d63a0a2738b1de2fb8e2446e9b3200b28c50e78dcd1b7237aea4c522f
+Size: 10613
+MD5sum: 2db9e8670507f43939234f77731eb495
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gamegemDp
+Description: Tool hack fai fai
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gamegemDp
+Author: Aidoo.TK <aidoo.tk@gmail.com>
+Name: GameGemCam
+dev: phước
+Icon: file:///Applications/GameGemiOS.app/AppIcon29x29@2x.png
