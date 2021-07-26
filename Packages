@@ -6,9 +6,10 @@ Name: GameGemCam
 Depends: mobilesubstrate, applist, preferenceloader
 Package: com.NVP.memsearch
 Section: Utilities
-Installed-Size: 4792
+Installed-Size: 10613
 Version: 1.5
 Architecture: iphoneos-arm
+dev: phước
 Description: Tool hack fai fai :)
 Icon: file:///Applications/GameGemiOS.app/AppIcon29x29@2x.png
 Filename: ./debs/GameGemCam.deb
