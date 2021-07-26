@@ -7,7 +7,7 @@ Package: com.aidoo.memsearch
 Depends: firmware (>= 8.0)
 Section: Utilities
 Installed-Size: 10613
-Version: 1.5.1
+Version: 1.5
 Architecture: iphoneos-arm
 Description: Tool hack fai fai :)
 dev: PHước 
