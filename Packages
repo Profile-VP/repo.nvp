@@ -3,7 +3,7 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gamegemDp
 Author: Aidoo.TK <aidoo.tk@gmail.com>
 Maintainer: NVP.vanphuoc <vanphuoc222su@gmail.com>
 Name: GameGem
-Package: com.NVP.memsearch
+Package: com.aidoo.memsearch
 Depends: firmware (>= 8.0)
 Section: Utilities
 Installed-Size: 10613
