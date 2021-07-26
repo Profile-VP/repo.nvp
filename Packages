@@ -1,19 +1,17 @@
-Package: com.aidoo.memsearch
-Architecture: iphoneos-arm
-Version: 1.5
-Section: Tweaks
-Maintainer: Văn Phước
-Installed-Size: 10613
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gamegemDp
+Depiction: hack fai fai
+Author: Aidoo.TK <aidoo.tk@gmail.com>
+Maintainer: NVP.vanphuoc <vanphuoc222su@gmail.com>
+Name: GameGem
 Depends: mobilesubstrate, applist, preferenceloader
+Package: com.NVP.memsearch
+Depends: firmware (>= 8.0)
+Section: Utilities
+Installed-Size: 10613
+Version: 1.5
+Architecture: iphoneos-arm
+Description: Tool hack fai fai :)
+Icon: file:///Applications/GameGemiOS.app/AppIcon29x29@2x.png
 Filename: ./debs/GameGemCam.deb
-Size: 4792
-MD5sum: B8DEA67FF886C79F1A9CEC50BA2B8393
-SHA1: 29BCE685BF3E20404981992BF09FF0920116383E
-SHA256: 5AB526D3FAABDE23FDB0CDCFA2D464F0B34A6C959CE35E64D567CD87F6412EFB
-SHA512: B20A1A12A309411A9CDBC6F493084C196A2CCE321A010E3506BEDBDA9AB5ABDB9A91FFF4366D27E40016EFA03FF9E370237A4D6B7DB2CCA0B4E861FDD0C74944
-Description: Tool Hack fai fai :).
-Name: GameGemIos Cam
-Author: Aidoo <aidoo.tk@gmail.com>
-Sileodepiction: hack fai fai dell mất acc.
-Depiction: hack fai fai ko mất acc.
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+Size: 4792298
+MD5sum:b8dea67ff886c79f1a9cec50ba2b8393
