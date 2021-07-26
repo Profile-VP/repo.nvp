@@ -16,3 +16,22 @@ Icon: file:///Applications/GameGemiOS.app/AppIcon29x29@2x.png
 Filename: ./debs/GameGemCam.deb
 Size: 4792298
 MD5sum:b8dea67ff886c79f1a9cec50ba2b8393
+
+Package: mobilesubstrate
+Architecture: iphoneos-arm
+Name: Cydia Substrate
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/mobilesubstrate/
+Depends: com.saurik.substrate.safemode
+Pre-Depends: dpkg (>= 1.14.25-8)
+Breaks: uikittools (<< 1.1.1), com.mywi4 (<= 5.03.2), com.phoenix.pandoracontrols (<= 1.1.0-1), com.intelliborn.intelliscreenx (<= 1.0.110), com.evad3rs.evasi0n7 (<< 0.2)
+Replaces: cycript (<= 0.9.594), com.saurik.substrate
+Conflicts: me.devbug.msreloadfix, com.r3pwn.startsubstrate, com.ragemasta.bootstrap, com.saurik.substrate (<< 1:0)
+Priority: optional
+Version: 0.9.7113
+Description: powerful code insertion platform
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Section: System
+Filename: ./debs/sub.deb
+Size: 2535200
+MD5sum:AE3A8E6426BFBA52A463E4F759688F00
