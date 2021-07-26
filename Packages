@@ -5,7 +5,7 @@ Section: Utilities
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 10613
 Depends: firmware (>= 8.0)
-Filename: ./DEB/com.longmen.memsearch_1.5_iphoneos-arm.deb
+Filename: ./debs/com.longmen.memsearch_1.5_iphoneos-arm.deb
 Size: 4000340
 MD5sum: f0569ab377e06db358c2faf32deb7643
 SHA1: e89539257faafff01483027c36c8c5a6b9262ad8
