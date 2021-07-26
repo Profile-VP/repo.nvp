@@ -5,7 +5,6 @@ Maintainer: NVP.vanphuoc <vanphuoc222su@gmail.com>
 Name: GameGemCam
 Depends: mobilesubstrate, applist, preferenceloader
 Package: com.NVP.memsearch
-Depends: firmware (>= 8.0)
 Section: Utilities
 Installed-Size: 10613
 Version: 1.5
