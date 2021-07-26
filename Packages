@@ -7,7 +7,7 @@ Installed-Size: 10613
 Depends: firmware (>= 8.0)
 Filename: ./debs/com.NVP.memsearch_1.5_iphoneos-arm.deb
 Size: 4792
-MD5sum: 2db9e8670507f43939234f77731eb495
+MD5Sum: 2db9e8670507f43939234f77731eb495
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gamegemDp
 Description: Tool hack fai fai
 Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
