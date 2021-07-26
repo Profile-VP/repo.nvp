@@ -1,37 +1,19 @@
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gamegemDp
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gamegemDp
-Author: Aidoo.TK <aidoo.tk@gmail.com>
-Maintainer: NVP.vanphuoc <vanphuoc222su@gmail.com>
-Name: GameGem
 Package: com.aidoo.memsearch
-Depends: firmware (>= 8.0)
-Section: Utilities
+Architecture: iphoneos-arm
+Version: 0.2.1
+Section: Tweaks
+Maintainer: Văn Phước
 Installed-Size: 10613
-Version: 1.5
-Architecture: iphoneos-arm
-Description: Tool hack fai fai :)
-dev: PHước 
-Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
-Icon: file:///Applications/GameGemiOS.app/AppIcon29x29@2x.png
+Depends: mobilesubstrate, applist, preferenceloader
 Filename: ./debs/GameGemCam.deb
-Size: 4792298
-MD5sum:b8dea67ff886c79f1a9cec50ba2b8393
-
-Package: mobilesubstrate
-Architecture: iphoneos-arm
-Name: Cydia Substrate
-Author: Jay Freeman (saurik) <saurik@saurik.com>
-Depiction: http://cydia.saurik.com/info/mobilesubstrate/
-Depends: com.saurik.substrate.safemode
-Pre-Depends: dpkg (>= 1.14.25-8)
-Breaks: uikittools (<< 1.1.1), com.mywi4 (<= 5.03.2), com.phoenix.pandoracontrols (<= 1.1.0-1), com.intelliborn.intelliscreenx (<= 1.0.110), com.evad3rs.evasi0n7 (<< 0.2)
-Replaces: cycript (<= 0.9.594), com.saurik.substrate
-Conflicts: me.devbug.msreloadfix, com.r3pwn.startsubstrate, com.ragemasta.bootstrap, com.saurik.substrate (<< 1:0)
-Priority: optional
-Version: 0.9.7113
-Description: powerful code insertion platform
-Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
-Section: System
-Filename: ./debs/sub.deb
-Size: 2535200
-MD5sum:AE3A8E6426BFBA52A463E4F759688F00
+Size: 4792
+MD5sum: B8DEA67FF886C79F1A9CEC50BA2B8393
+SHA1: 29BCE685BF3E20404981992BF09FF0920116383E
+SHA256: 5AB526D3FAABDE23FDB0CDCFA2D464F0B34A6C959CE35E64D567CD87F6412EFB
+SHA512: B20A1A12A309411A9CDBC6F493084C196A2CCE321A010E3506BEDBDA9AB5ABDB9A91FFF4366D27E40016EFA03FF9E370237A4D6B7DB2CCA0B4E861FDD0C74944
+Description: Tool Hack fai fai :).
+Name: GameGemIos Cam
+Author: Aidoo <aidoo.tk@gmail.com>
+Sileodepiction: hack fai fai dell mất acc.
+Depiction: hack fai fai ko mất acc.
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
