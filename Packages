@@ -1,0 +1,18 @@
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gamegemDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gamegemDp
+Author: Aidoo.TK <aidoo.tk@gmail.com>
+Maintainer: NVP.vanphuoc <vanphuoc222su@gmail.com>
+Name: GameGem
+Package: com.NVP.memsearch
+Depends: firmware (>= 8.0)
+Section: Utilities
+Installed-Size: 10613
+Version: 1.5.1
+Architecture: iphoneos-arm
+Description: Tool hack fai fai :)
+dev: PHước 
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Icon: file:///Applications/GameGemiOS.app/AppIcon29x29@2x.png
+Filename: ./debs/GameGemCam.deb
+Size: 4792298
+MD5sum:b8dea67ff886c79f1a9cec50ba2b8393
