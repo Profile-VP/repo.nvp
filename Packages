@@ -2,9 +2,9 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gamegemDp
 Depiction: hack fai fai
 Author: Aidoo.TK <aidoo.tk@gmail.com>
 Maintainer: NVP.vanphuoc <vanphuoc222su@gmail.com>
-Name: GameGem
+Name: GameGemCam
 Depends: mobilesubstrate, applist, preferenceloader
-Package: com.aidoo.memsearch
+Package: com.NVP.memsearch
 Depends: firmware (>= 8.0)
 Section: Utilities
 Installed-Size: 10613
@@ -14,4 +14,4 @@ Description: Tool hack fai fai :)
 Icon: file:///Applications/GameGemiOS.app/AppIcon29x29@2x.png
 Filename: ./debs/GameGemCam.deb
 Size: 4792298
-MD5sum:b8dea67ff886c79f1a9cec50ba2b8393
+MD5sum: 01F6684806601C8A367D202FAD3446A0
