@@ -5,7 +5,7 @@ Version: 1.0
 Codename: cydia-ios
 Architectures: iphoneos-arm
 Components: main
-Description: Cydia Repo by Phước.
+Description: Cydia Repo by Phước
 MD5Sum:
  9021882a067913187469edad448389c6 720 Packages
  3585e69bc8a533e5057f42149b9004e6 498 Packages.bz2
